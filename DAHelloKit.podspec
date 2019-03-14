@@ -15,11 +15,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/15131235520@163.com/DAHelloKit'
+  s.homepage         = 'https://github.com/kedouer/DAHelloKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '15131235520@163.com' => 'zhangtao8388@duia.com' }
-  s.source           = { :git => 'https://github.com/15131235520@163.com/DAHelloKit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/kedouer/DAHelloKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
