@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'DAHelloKit'
-  s.version          = '0.1.0'
+  s.version          = '0.1.6'
   s.summary          = 'A greate kit.'
 
   s.description      = <<-DESC
